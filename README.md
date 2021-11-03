@@ -1,41 +1,33 @@
-# A starter project for React/Redux
+# ZJC 
 
-> A minimalistic React/Redux starter project
+> Hey! I'm a Full Stack Web Developer and welcome to my website! A work in progress but will contain info about me, all my past and current projects, amongst other things. If you find a bug let me know! <br />
+PS: Deployment in progress!
 
-To use:
+<p align="center">
+  <img src="./server/public/images/zjc-114px-logo.png">
+</p>
 
-* Fork this repo
-* Rename your repo according to the app you're building
+# Built Using
+* HTML
+* Javascript
+* Node.js
+* React.js
+* Redux.js
+* Thunk
+* CSS
+* Sass
+* Jest
+* Sqlite
+* Super-Agent
+* Express
+<!-- * Auth0 -->
 
-```sh
-git clone https://github.com/[your-org]/[your-app].git
-cd [your-app] && npm i
-```
 
-This is the structure of this boilerplate:
+# Author
+**Zahira Champion**
+* [GitHub/zahira-champion](https://github.com/zahira-champion)
+* [LinkedIn/zahira-jasmine-champion](https://www.linkedin.com/in/zahira-jasmine-c-1a6317b4/)
 
-```sh
-.
-├── client
-│   ├── actions
-│   │   └── index.js
-│   ├── components
-│   │   ├── AddWord.jsx
-│   │   ├── App.jsx
-│   │   ├── Word.jsx
-│   │   └── Words.jsx
-│   ├── reducers
-│   │   ├── index.js
-│   │   └── words.js
-│   └── index.js
-├── public
-│   ├── index.html
-│   └── main.css
-├── server
-│   ├── index.js
-│   └── server.js
-├── .gitignore
-├── package.json
-├── README.md
-└── webpack.config.js
-```
+ ***
+
+Copyright © 2021, Zahira Jasmine Champion
